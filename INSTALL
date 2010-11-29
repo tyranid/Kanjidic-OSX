@@ -1,0 +1,4 @@
+Download the kanjidic2.xml file from http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz and ungzip it
+Make sure to have the OSX dev tools installed and run make.
+
+Copy the output files to the approriate place under your Library

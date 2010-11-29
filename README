@@ -1,0 +1,3 @@
+Kanjidic OSX
+This is a simple project to convert the kanjidic2.xml file from http://www.csse.monash.edu.au/~jwb/kanjidic2/
+into the format used by the OSX Dictionary.app.
